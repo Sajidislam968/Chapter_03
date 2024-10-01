@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a959fc96-4e01-4c01-affa-99ef7af3d8e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Chapter_03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Chapter_03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sajidislam968/Chapter_03.git",
-    "accountId": "45113949-2f72-457c-b10c-dc7df3f36961"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sajidislam968&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sajidislam968/Chapter_03.git&quot;,
+    &quot;accountId&quot;: &quot;45113949-2f72-457c-b10c-dc7df3f36961&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -32,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.3.1.executor": "Run",
+    "Python.3.2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "F:/Sajid/4th Semester/Python Lab/Exercise-02/Chapter_03",
@@ -61,10 +70,15 @@
       <updated>1727794467335</updated>
       <workItem from="1727794470612" duration="5000" />
       <workItem from="1727796396140" duration="572000" />
+      <workItem from="1727802178488" duration="743000" />
+      <workItem from="1727805148282" duration="632000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chapter_03$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1727805437256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
